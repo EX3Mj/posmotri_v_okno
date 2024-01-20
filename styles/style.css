@@ -114,18 +114,18 @@ ol {
 }
 
 .search-form__textfield {
-  color: inherit;
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
-  appearance: none;
-  background-color: transparent;
-  border-right: none;
-  border-left: none;
-  border-top: 1px solid currentColor;
-  border-bottom: 1px solid currentColor;
-  width: 225px;
-  height: 27px;
+  color: inherit; 
+  font-family: inherit; 
+  font-size: inherit; 
+  line-height: inherit; 
+  appearance: none; 
+  background-color: transparent; 
+  border-right: none; 
+  border-left: none; 
+  border-top: 1px solid currentColor; 
+  border-bottom: 1px solid currentColor; 
+  width: 225px; 
+  height: 27px; 
 }
 
 .search-form__textfield:focus-visible {
@@ -254,7 +254,7 @@ ol {
 
 .content__card-link:active,
 .content__card-link_current {
-  background-color: #545050;
+  background-color: #545050
 }
 
 .content__card-link:focus-visible {
